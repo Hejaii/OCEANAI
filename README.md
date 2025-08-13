@@ -73,6 +73,16 @@ The library solves practical tasks:
 
 ---
 
+## Quick demo
+
+Run the provided `run_mumei_scores.py` script to install dependencies, download model weights, and print Big Five personality scores for the sample `mumei.mp4` video:
+
+```bash
+python run_mumei_scores.py
+```
+
+---
+
 ## Research data
 
 The **[OCEAN-AI](https://oceanai.readthedocs.io/en/latest/)** library was tested on two corpora:
